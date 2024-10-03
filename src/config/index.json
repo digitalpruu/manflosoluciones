@@ -64,12 +64,8 @@
       {
         "name": "Instagram",
         "description": "@manflo_soluciones",
-        "icon": "/assets/images/insta.png"
-      },
-      {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/insta.png",
+        "url":""
       }
     ]
   },
