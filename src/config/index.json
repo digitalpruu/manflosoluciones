@@ -20,7 +20,7 @@
   "mainHero": {
     "title": "manflosoluciones",
     "subtitle": "",
-    "description": "lo que necesites a a orden",
+    "description": "",
     "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
@@ -65,7 +65,13 @@
         "name": "Instagram",
         "description": "@manflo_soluciones",
         "icon": "/assets/images/insta.png",
-        "url":""
+        "url":"https://www.instagram.com/manflo_soluciones?igsh=MXFxaWdjNmk0OTQwOA=="
+      },
+      {
+        "name": "Facebook",
+        "description": "@manflo_soluciones",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/profile.php?id=61566396290089&mibextid=ZbWKwL"
       }
     ]
   },
